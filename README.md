@@ -1,4 +1,5 @@
-# Xeno Executor 🚀
+# Xeno Executor 🚀 [![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)]()
+
 
 Welcome to **Xeno Executor**—one of the most powerful script execution tools for your needs! 💻🔥
 
@@ -9,6 +10,8 @@ Welcome to **Xeno Executor**—one of the most powerful script execution tools f
 
 **Embrace the future of scripting with Xeno Executor, where dreams become reality. 🚀✨**
 
+[![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)]()
+---
 ![xen](https://github.com/user-attachments/assets/9654bb3b-29f0-498f-8e2f-635726413bfd)
 
 ## 🌟 Features
